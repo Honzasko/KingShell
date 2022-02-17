@@ -1,0 +1,15 @@
+C:\Users\strak\source\repos\KingShell\KingShell\bin\Debug\net6.0\KingShell.exe
+C:\Users\strak\source\repos\KingShell\KingShell\bin\Debug\net6.0\KingShell.deps.json
+C:\Users\strak\source\repos\KingShell\KingShell\bin\Debug\net6.0\KingShell.runtimeconfig.json
+C:\Users\strak\source\repos\KingShell\KingShell\bin\Debug\net6.0\KingShell.dll
+C:\Users\strak\source\repos\KingShell\KingShell\bin\Debug\net6.0\ref\KingShell.dll
+C:\Users\strak\source\repos\KingShell\KingShell\bin\Debug\net6.0\KingShell.pdb
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\KingShell.csproj.AssemblyReference.cache
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\KingShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\KingShell.AssemblyInfoInputs.cache
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\KingShell.AssemblyInfo.cs
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\KingShell.csproj.CoreCompileInputs.cache
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\KingShell.dll
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\ref\KingShell.dll
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\KingShell.pdb
+C:\Users\strak\source\repos\KingShell\KingShell\obj\Debug\net6.0\KingShell.genruntimeconfig.cache
