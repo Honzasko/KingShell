@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KingShell", "KingShell.csproj", "{0F03C473-AA46-4F8F-88B6-50BAD6C9ABD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F03C473-AA46-4F8F-88B6-50BAD6C9ABD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F03C473-AA46-4F8F-88B6-50BAD6C9ABD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F03C473-AA46-4F8F-88B6-50BAD6C9ABD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F03C473-AA46-4F8F-88B6-50BAD6C9ABD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2056488E-DEDD-4A31-9540-3040A3C1E6FA}
+	EndGlobalSection
+EndGlobal
