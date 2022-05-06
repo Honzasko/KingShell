@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "njkkhSLjpj5kMXLt0LHQXO4zi/DFhPeyyW3ZQcludFvfGnOoE1sSNO9JEpIm+6fhiSq+rTvGdfTQsB05aWTxWA==",
+  "dgSpecHash": "UZKxfp4xFmjxTKZ0IWzIRqy8amoPxI8pJ4d9Y16x6R5eW1/uuQ+CkVtr4W1Z0HW315IKOhLr0lqjaVZKOogeAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\strak\\source\\repos\\KingShell\\KingShell\\KingShell.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\petrn\\source\\repos\\KingShell\\KingShell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petrn\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\petrn\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
